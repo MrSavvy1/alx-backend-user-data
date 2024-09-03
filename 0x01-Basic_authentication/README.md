@@ -1,0 +1,1 @@
+Base64 - This module provides functions for encoding binary data to printable ASCII characters and decoding such encodings back to binary data.
